@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "👋 Hello! let's know something about me!"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,11 +8,11 @@ redirect_from:
 ---
 
 
-I’m Vivekanand Sahu, a Master of Science in Machine Learning and Data Science candidate at the University of California San Diego. With a strong foundation in AI, data science, and software development, I am passionate about building scalable, deployment-ready AI systems.  
+👋 Hello! I’m Vivekanand Sahu, a Master of Science in Machine Learning and Data Science candidate at the University of California San Diego. With a strong foundation in AI, data science, and software development, I am passionate about building scalable, deployment-ready AI systems.  
 
 ## 🔍 Experience & Background  
 
-My journey spans cutting-edge research and industry experience, including roles at **Alkermes, Duarte Lab, Shiley Eye Institute, Berg Lab, and LTIMindtree**. I have worked on **AI-driven drug discovery, medical AI, NLP systems, and cloud-based ML solutions**. I also **founded the AI Robotics team DJS Antariksh** and played a key role in transforming **EVs into autonomous vehicles** with **Team DJS Racing**.  
+My journey spans cutting-edge research and industry experience, including roles at **Alkermes, UC San Diego, Duarte Lab and LTIMindtree**. I have worked on **AI-driven drug discovery, medical AI, NLP systems, and cloud-based ML solutions**. I also **founded the AI Robotics team DJS Antariksh** and played a key role in transforming **EVs into autonomous vehicles** with **Team DJS Racing**.  
 
 ## 💻 Technical Expertise  
 
