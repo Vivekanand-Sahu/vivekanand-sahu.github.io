@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-# 👋 Hello!  
+
 
 I’m Vivekanand Sahu, a Master of Science in Machine Learning and Data Science candidate at the University of California San Diego. With a strong foundation in AI, data science, and software development, I am passionate about building scalable, deployment-ready AI systems.  
 
