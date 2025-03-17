@@ -28,7 +28,8 @@ Advanced drug discovery by leveraging an LLM foundation model to identify target
 
 ---
 
-## ![Duarte Lab](path/to/image.jpg)  
+## ![image](https://github.com/user-attachments/assets/cd053bbf-8edd-48e2-b690-2f7cface5bcb)
+ 
 Deep Learning Researcher  |  Duarte Lab, San Diego, CA  |  Jan 2024 – May 2024  
 
 Optimized transformers for subatomic particle interaction analysis. Enhanced interpretability by adding four physics-informed features and visualizing attention weights. Achieved 0.92 AUC in classifying particle jets using Linear Attention. Improved model speed by 40% and reduced peak memory by 3x with FlashAttention and Int8 Quantization on Nvidia A100 GPUs. Presented findings and published the paper ‘Interpreting Transformers for Jet Tagging’ at NeurIPS 2024.  
@@ -37,7 +38,8 @@ Optimized transformers for subatomic particle interaction analysis. Enhanced int
 
 ---
 
-## ![Shiley Eye Institute](path/to/image.jpg)  
+## ![image](https://github.com/user-attachments/assets/979a9caf-2056-4e79-a224-f51043310669)
+ 
 Machine Learning Intern  |  Shiley Eye Institute, California  |  May 2024 – Sep 2024  
 
 Diagnosed Glaucoma types through semantic segmentation and image classification of retinal images. Achieved mean IoU of 0.76 in segmenting optic cups and discs using DeepLabv3+. Classified optic discs with 0.82 precision using MobileNetV2. Optimized models, reducing size by 60%, making them suitable for deployment on edge devices in clinical settings.  
@@ -46,7 +48,8 @@ Diagnosed Glaucoma types through semantic segmentation and image classification 
 
 ---
 
-## ![LTIMindtree](path/to/image.jpg)  
+## ![image](https://github.com/user-attachments/assets/bcd6c7e3-d87d-4010-81bf-367c335dae18)
+
 Senior Data Engineer  |  LTIMindtree, Mumbai, India  |  Jul 2021 – Jul 2023  
 
 Developed a fraud detection system analyzing 20K customer records, with alerts via a FastAPI-backed React dashboard. Built an ETL pipeline using Apache Spark and S3, processing 1M+ transactional, financial, and user behavior records. Achieved 0.95 true positive rate by training an XGBoost model on AWS SageMaker. Automated CI/CD with GitHub Actions and deployed the system on API Gateway and AWS Lambda. Detected ~1K fraud transactions daily with AWS Elastic Load Balancer and CloudWatch.  
