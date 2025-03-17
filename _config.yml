@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "https://github.com/Vivekanand-Sahu/vivekanand-sahu.github.io/blob/master/images/WhatsApp%20Image%202025-03-16%20at%206.50.29%20PM.jpeg"
+  avatar           : "https://github.com/Vivekanand-Sahu/vivekanand-sahu.github.io/blob/master/images/me.png"
   name             : "Vivekanand Sahu"
   pronouns         : "He/Him"  
   bio              : "Short biography for the left-hand sidebar"
