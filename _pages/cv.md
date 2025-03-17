@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-[View my CV](files/Vivekanand_Sahu_Gen.pdf)
+[View my CV](/files/Vivekanand_Sahu_Gen.pdf)
