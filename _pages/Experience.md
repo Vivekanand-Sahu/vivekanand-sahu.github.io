@@ -27,7 +27,7 @@ Advanced drug discovery by leveraging an LLM foundation model to identify target
 ---
 
 ## ![Duarte Lab](path/to/image.jpg)  
-Deep Learning Researcher  |  Duarte Lab, San Diego, CA  |  Jan 2024 – Present  
+Deep Learning Researcher  |  Duarte Lab, San Diego, CA  |  Jan 2024 – May 2024  
 
 Optimized transformers for subatomic particle interaction analysis. Enhanced interpretability by adding four physics-informed features and visualizing attention weights. Achieved 0.92 AUC in classifying particle jets using Linear Attention. Improved model speed by 40% and reduced peak memory by 3x with FlashAttention and Int8 Quantization on Nvidia A100 GPUs. Presented findings and published the paper ‘Interpreting Transformers for Jet Tagging’ at NeurIPS 2024.  
 
