@@ -17,11 +17,16 @@ My journey spans cutting-edge research and industry experience, including roles 
 ## 💻 Technical Expertise  
 
 I specialize in:  
-- **Deep Learning & ML:** PyTorch, TensorFlow, scikit-learn  
-- **LLMs & RAG:** LangChain, Pinecone, Crew AI  
-- **Optimization & Deployment:** ONNX, JAX, TensorRT  
-- **Cloud & Databases:** AWS, Azure, SQL  
-- **Software Development:** Python, C++, Java, Flask, Streamlit  
+
+- **Programming:** Python, SQL, C, C++, Java, CUDA, R, PL/SQL, Git, Bash, JavaScript, HTML/CSS  
+- **Frameworks & Libraries:** PyTorch, TensorFlow, Crew AI, LangChain, Hugging Face, Scikit-learn, NumPy, Pandas, ONNX  
+- **Generative AI:** Agentic AI, RAG, LLM Fine-tuning, Model Profiling, Ollama, OpenAI, Distributed Training  
+- **Databases:**  
+  - **Big Data:** Spark, Hadoop  
+  - **RDBMS:** MySQL  
+  - **NoSQL:** MongoDB  
+  - **Vector:** ChromaDB, Pinecone  
+- **Cloud & Web:** AWS, Azure, GCP, Kubernetes, Docker, DevOps, CI/CD, MLflow, Streamlit, React, FastAPI  
 
 I have hands-on experience **deploying ML models**, optimizing AI pipelines, and designing **secure, scalable architectures** for real-world applications.  
 
