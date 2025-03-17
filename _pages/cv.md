@@ -7,7 +7,6 @@ redirect_from:
   - /resume
 ---
 
-[View my CV](/files/Vivekanand_Sahu_Gen.pdf)
 
 <iframe src="/files/Vivekanand_Sahu_Gen.pdf" width="100%" height="600px" style="border: none;"></iframe>
 
