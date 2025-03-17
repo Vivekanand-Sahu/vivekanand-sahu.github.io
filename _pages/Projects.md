@@ -1,4 +1,11 @@
-# 🚀 Projects  
+---
+layout: archive
+title: "Projects"
+permalink: /Projects/
+author_profile: true
+redirect_from:
+  - /resume
+---
 
 ---
 
@@ -10,6 +17,18 @@
 - Identified subatomic particle interactions by adding **4 physics-informed features** and visualizing **attention weights**.  
 - Achieved **0.92 AUC** in **particle jet classification** using the **Linear Attention mechanism**.  
 - Boosted model speed **by 40%** and reduced **peak memory by 3x** with **FlashAttention and Int8 Quantization** on Nvidia A100 GPUs.  
+
+---
+
+## ![Agentic AI - Cards Game](path/to/image.jpg)  
+### **Agentic AI - Cards Game**  
+**Technologies:** AI Agents, LLM Training, OpenAI APIs, Cost Optimization  
+🔗 [GitHub](#)  
+
+- Created a **Cards game** with **4 OpenAI LLM Agents**, including a **game host and 3 AI players**.  
+- Reduced **token usage and API costs by 65%** through **CrewAI and LangChain optimizations**.  
+- Implemented **Chain-of-Thought reasoning** and **game difficulty levels**, improving **user satisfaction by 25%**.  
+
 
 ---
 
@@ -72,17 +91,6 @@
 - Built an **autonomous vehicle** that **follows a track** using **Faster R-CNN and OpenCV**.  
 - Improved **model accuracy to 81%** with **data augmentation and optimized anchor-box selection**.  
 - Achieved **cone localization with MSE of 0.13** using **ROS-based SLAM and LiDAR**.  
-
----
-
-## ![Agentic AI - Cards Game](path/to/image.jpg)  
-### **Agentic AI - Cards Game**  
-**Technologies:** AI Agents, LLM Training, OpenAI APIs, Cost Optimization  
-🔗 [GitHub](#)  
-
-- Created a **Cards game** with **4 OpenAI LLM Agents**, including a **game host and 3 AI players**.  
-- Reduced **token usage and API costs by 65%** through **CrewAI and LangChain optimizations**.  
-- Implemented **Chain-of-Thought reasoning** and **game difficulty levels**, improving **user satisfaction by 25%**.  
 
 ---
 
