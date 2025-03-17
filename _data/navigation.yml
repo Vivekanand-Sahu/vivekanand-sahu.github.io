@@ -30,7 +30,7 @@ main:
   #   url: /year-archive/
     
   - title: "CV"
-    url: "/Experience/"
+    url: "/cv/"
     # url: "https://github.com/Vivekanand-Sahu/vivekanand-sahu.github.io/blob/master/files/Vivekanand_Sahu_Gen.pdf"
     
   # - title: "CV"
