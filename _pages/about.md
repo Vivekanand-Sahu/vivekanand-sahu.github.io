@@ -23,9 +23,7 @@ I specialize in:
 - **Cloud & Databases:** AWS, Azure, SQL  
 - **Software Development:** Python, C++, Java, Flask, Streamlit  
 
-I have hands-on experience **deploying ML models**, optimizing AI pipelines, and designing **secure, scalable architectures**
-
- for real-world applications.  
+I have hands-on experience **deploying ML models**, optimizing AI pipelines, and designing **secure, scalable architectures** for real-world applications.  
 
 ## 🚀 Current Focus  
 
