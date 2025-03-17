@@ -8,7 +8,8 @@ redirect_from:
 ---
 
 
-## ![UCSD](https://github.com/user-attachments/assets/dd072b26-22ed-49f5-8ca9-995777277ac9)
+## <img width="500" alt="image" src="https://github.com/user-attachments/assets/ef86ca11-a457-4de2-8fa0-c6558e99a0df" />
+
   
 AI Engineer  |  UC San Diego, California  |  Oct 2024 – Mar 2025  
 
@@ -18,7 +19,8 @@ Developed a multi-agent RAG-powered Tutor Chatbot using LangChain and LangGraph 
 
 ---
 
-## ![image](https://github.com/user-attachments/assets/bb1e1110-3fe8-4dd2-8def-673bbd25c25b)
+## <img width="500" alt="image" src="https://github.com/user-attachments/assets/025d1f83-f0a7-4499-abd2-f5fb9aecf2da" />
+
 
 Machine Learning Engineer  |  Alkermes, Massachusetts  |  Jun 2024 – Sep 2024  
 
@@ -28,27 +30,8 @@ Advanced drug discovery by leveraging an LLM foundation model to identify target
 
 ---
 
-## ![image](https://github.com/user-attachments/assets/cd053bbf-8edd-48e2-b690-2f7cface5bcb)
- 
-Deep Learning Researcher  |  Duarte Lab, San Diego, CA  |  Jan 2024 – May 2024  
+## <img width="500" alt="image" src="https://github.com/user-attachments/assets/f654b4ab-fff9-4ba3-afa1-bf78f0cfc71f" />
 
-Optimized transformers for subatomic particle interaction analysis. Enhanced interpretability by adding four physics-informed features and visualizing attention weights. Achieved 0.92 AUC in classifying particle jets using Linear Attention. Improved model speed by 40% and reduced peak memory by 3x with FlashAttention and Int8 Quantization on Nvidia A100 GPUs. Presented findings and published the paper ‘Interpreting Transformers for Jet Tagging’ at NeurIPS 2024.  
-
-🔗 [Project Link](#) | [GitHub](#) | [Publication](#)  
-
----
-
-## ![image](https://github.com/user-attachments/assets/979a9caf-2056-4e79-a224-f51043310669)
- 
-Machine Learning Intern  |  Shiley Eye Institute, California  |  May 2024 – Sep 2024  
-
-Diagnosed Glaucoma types through semantic segmentation and image classification of retinal images. Achieved mean IoU of 0.76 in segmenting optic cups and discs using DeepLabv3+. Classified optic discs with 0.82 precision using MobileNetV2. Optimized models, reducing size by 60%, making them suitable for deployment on edge devices in clinical settings.  
-
-🔗 [Project Link](#) | [GitHub](#) | [Publication](#)  
-
----
-
-## ![image](https://github.com/user-attachments/assets/bcd6c7e3-d87d-4010-81bf-367c335dae18)
 
 Senior Data Engineer  |  LTIMindtree, Mumbai, India  |  Jul 2021 – Jul 2023  
 
