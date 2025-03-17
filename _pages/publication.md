@@ -9,7 +9,8 @@ redirect_from:
 
 ---
 
-## ![Interpreting & Optimizing Transformers](path/to/image.jpg)  
+## <img width="634" alt="image" src="https://github.com/user-attachments/assets/cf03e58a-004c-4d1d-beae-897fd024aacf" />
+
 ### **Interpreting & Optimizing Transformers**  
 **Technologies:** Explainable AI, CUDA, Performance Tuning, Kubernetes  
 🔗 [GitHub: https://github.com/ucsd-hep-ex/efficient_particle_transformer](#)  
@@ -20,7 +21,8 @@ redirect_from:
 
 ---
 
-## ![Product Billing and Inventory Management](path/to/image.jpg)  
+## <img width="153" alt="image" src="https://github.com/user-attachments/assets/18ca3b13-d3e2-4a79-a448-64c3e933caa4" />
+
 ### **Product Billing and Inventory Management**  
 **Technologies:** Tableau, Time Series, MySQL, Computer Vision  
 
@@ -32,7 +34,8 @@ redirect_from:
 ---
 
 
-## ![Autonomous Tomato Harvester](path/to/image.jpg)  
+## <img width="146" alt="image" src="https://github.com/user-attachments/assets/28b0aee7-11eb-4d26-a32b-5698f14bf1ee" />
+ 
 ### **Autonomous Tomato Harvester**  
 **Technologies:** Computer Vision, TensorFlow, Hyperparameter Tuning  
 
