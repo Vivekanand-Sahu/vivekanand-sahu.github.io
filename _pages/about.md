@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "👋 Hello! I am glad you are here, let's know something me!"
+title: "👋 Hello! let's know something about me!"
 author_profile: true
 redirect_from: 
   - /about/
