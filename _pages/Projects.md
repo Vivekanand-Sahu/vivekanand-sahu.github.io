@@ -12,7 +12,7 @@ redirect_from:
 ## ![Interpreting & Optimizing Transformers](path/to/image.jpg)  
 ### **Interpreting & Optimizing Transformers**  
 **Technologies:** Explainable AI, CUDA, Performance Tuning, Kubernetes  
-🔗 [GitHub](#)  
+🔗 [GitHub: https://github.com/ucsd-hep-ex/efficient_particle_transformer](#)  
 
 - Identified subatomic particle interactions by adding **4 physics-informed features** and visualizing **attention weights**.  
 - Achieved **0.92 AUC** in **particle jet classification** using the **Linear Attention mechanism**.  
@@ -23,12 +23,22 @@ redirect_from:
 ## ![Agentic AI - Cards Game](path/to/image.jpg)  
 ### **Agentic AI - Cards Game**  
 **Technologies:** AI Agents, LLM Training, OpenAI APIs, Cost Optimization  
-🔗 [GitHub](#)  
+🔗 [GitHub: https://github.com/Vivekanand-Sahu/AGENTIC_AI_21_CARD_GAME.git](#)  
 
 - Created a **Cards game** with **4 OpenAI LLM Agents**, including a **game host and 3 AI players**.  
 - Reduced **token usage and API costs by 65%** through **CrewAI and LangChain optimizations**.  
 - Implemented **Chain-of-Thought reasoning** and **game difficulty levels**, improving **user satisfaction by 25%**.  
 
+
+---
+## ![Preliminary Disease Diagnosis](path/to/image.jpg)  
+### **Preliminary Disease Diagnosis**  
+**Technologies:** XGBoost, Pandas, NumPy, Matplotlib  
+🔗 [GitHub: https://github.com/Vivekanand-Sahu/Preliminary_Disease_Diagnosis_XGBoost.git](#)  
+
+- Engineered **features** by **pre-processing symptoms data** using one-hot encoding and normalization.  
+- Achieved **0.78 F1 score** in **disease prediction** using **XGBoost with tuned hyperparameters**.  
+- Reduced patient **wait-time by 30%**, integrating real-time predictions with a **Tableau dashboard**.  
 
 ---
 
@@ -42,16 +52,7 @@ redirect_from:
 
 ---
 
-## ![Preliminary Disease Diagnosis](path/to/image.jpg)  
-### **Preliminary Disease Diagnosis**  
-**Technologies:** XGBoost, Pandas, NumPy, Matplotlib  
-🔗 [GitHub](#)  
 
-- Engineered **features** by **pre-processing symptoms data** using one-hot encoding and normalization.  
-- Achieved **0.78 F1 score** in **disease prediction** using **XGBoost with tuned hyperparameters**.  
-- Reduced patient **wait-time by 30%**, integrating real-time predictions with a **Tableau dashboard**.  
-
----
 
 ## ![Product Billing and Inventory Management](path/to/image.jpg)  
 ### **Product Billing and Inventory Management**  
