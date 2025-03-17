@@ -47,9 +47,6 @@ Developed a fraud detection system analyzing 20K customer records, with alerts v
 
 ---
 
-Each ![Company Name](path/to/image.jpg) is a placeholder where you can add relevant images. Replace (path/to/image.jpg) with actual image file paths. Update the Project Links, GitHub Repos, and Publications accordingly. 🚀  
-
-
 
 
 
