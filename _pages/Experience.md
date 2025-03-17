@@ -8,7 +8,8 @@ redirect_from:
 ---
 
 
-## ![UC San Diego](path/to/image.jpg)  
+## ![UCSD](https://github.com/user-attachments/assets/dd072b26-22ed-49f5-8ca9-995777277ac9)
+  
 AI Engineer  |  UC San Diego, California  |  Oct 2024 – Mar 2025  
 
 Developed a multi-agent RAG-powered Tutor Chatbot using LangChain and LangGraph with six LLMs. Improved response precision 3x and reduced hallucinations by 60% through fine-tuning, RAGAS, and prompt engineering. Ensured data privacy with on-device Llama 3.2 and FAISS, achieving 1.5x speedup via parallelized web search. Integrated Streamlit UI, implemented CI/CD, and scaled deployment on AWS to handle 100 queries/sec.  
@@ -17,7 +18,8 @@ Developed a multi-agent RAG-powered Tutor Chatbot using LangChain and LangGraph 
 
 ---
 
-## ![Alkermes](path/to/image.jpg)  
+## ![image](https://github.com/user-attachments/assets/bb1e1110-3fe8-4dd2-8def-673bbd25c25b)
+
 Machine Learning Engineer  |  Alkermes, Massachusetts  |  Jun 2024 – Sep 2024  
 
 Advanced drug discovery by leveraging an LLM foundation model to identify target genes for brain disorders. Achieved 0.9 F1 score in disease classification by fine-tuning on 50K scRNA samples using Distributed Multi-GPU training. Simulated gene regulation hypotheses by deploying the model with Azure ML and Databricks. Accelerated research timelines by 5 years and reduced costs by 50% by identifying six key genes that shift diseased cells to a healthy state.  
