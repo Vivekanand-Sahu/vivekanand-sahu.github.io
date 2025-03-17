@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Vivekanand's Homepage"
+title                    : "Vivekanand's Proflie"
 title_separator          : "-"
 name                     : &name "Vivekanand Sahu"
 description              : &description "personal description"
