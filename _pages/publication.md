@@ -10,7 +10,7 @@ redirect_from:
 ---
 
 
-### **Interpreting & Optimizing Transformers**  
+## **Interpreting & Optimizing Transformers**  
 **Technologies:** Explainable AI, CUDA, Performance Tuning, Kubernetes  
 🔗 [GitHub: https://github.com/ucsd-hep-ex/efficient_particle_transformer](#)  
 🔗 [Paper: https://arxiv.org/abs/2412.03673](#)  
@@ -22,7 +22,7 @@ redirect_from:
 ---
 
 
-### **Product Billing and Inventory Management**  
+## **Product Billing and Inventory Management**  
 **Technologies:** Tableau, Time Series, MySQL, Computer Vision  
 🔗 [Paper: https://ieeexplore.ieee.org/document/10010953](#)  
 - Automated **product billing** using **YOLOv4**, achieving **0.81 mAP** in product detection.  
@@ -35,7 +35,7 @@ redirect_from:
 
 
  
-### **Autonomous Tomato Harvester**  
+## **Autonomous Tomato Harvester**  
 **Technologies:** Computer Vision, TensorFlow, Hyperparameter Tuning  
 🔗 [Paper: https://link.springer.com/chapter/10.1007/978-981-16-1510-8_8](#)  
 - Designed a **self-navigating rover** for tomato harvesting, detecting **5 guiding signboards** using **Faster R-CNN, ROS, and OpenCV**.  
