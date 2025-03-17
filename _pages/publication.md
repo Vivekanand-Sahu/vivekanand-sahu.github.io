@@ -13,7 +13,7 @@ redirect_from:
 ### **Interpreting & Optimizing Transformers**  
 **Technologies:** Explainable AI, CUDA, Performance Tuning, Kubernetes  
 🔗 [GitHub: https://github.com/ucsd-hep-ex/efficient_particle_transformer](#)  
-
+🔗 [Paper: https://arxiv.org/abs/2412.03673](#)  
 - Identified subatomic particle interactions by adding **4 physics-informed features** and visualizing **attention weights**.  
 - Achieved **0.92 AUC** in **particle jet classification** using the **Linear Attention mechanism**.  
 - Boosted model speed **by 40%** and reduced **peak memory by 3x** with **FlashAttention and Int8 Quantization** on Nvidia A100 GPUs.  
@@ -24,7 +24,7 @@ redirect_from:
 
 ### **Product Billing and Inventory Management**  
 **Technologies:** Tableau, Time Series, MySQL, Computer Vision  
-
+🔗 [Paper: https://ieeexplore.ieee.org/document/10010953](#)  
 - Automated **product billing** using **YOLOv4**, achieving **0.81 mAP** in product detection.  
 - Enhanced **supply-demand forecasting accuracy by 25%** with **real-time Tableau dashboards**.  
 - Reduced **billing time by 85%**, leading to a **30% increase in customer footfall**.  
@@ -37,7 +37,7 @@ redirect_from:
  
 ### **Autonomous Tomato Harvester**  
 **Technologies:** Computer Vision, TensorFlow, Hyperparameter Tuning  
-
+🔗 [Paper: https://link.springer.com/chapter/10.1007/978-981-16-1510-8_8](#)  
 - Designed a **self-navigating rover** for tomato harvesting, detecting **5 guiding signboards** using **Faster R-CNN, ROS, and OpenCV**.  
 - Identified **ripe tomatoes with 84% accuracy** by optimizing **anchor ratios** and **dropout rates**.  
 - **Published in Springer (Vol 1341, Jul 2021, ISBN: 978-981-16-1510-8).**  
