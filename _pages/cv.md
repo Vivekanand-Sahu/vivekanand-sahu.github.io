@@ -9,5 +9,5 @@ redirect_from:
 
 [View my CV](/files/Vivekanand_Sahu_Gen.pdf)
 
-<iframe src="your-pdf-url.pdf" width="100%" height="600px" style="border: none;"></iframe>
+<iframe src="/files/Vivekanand_Sahu_Gen.pdf" width="100%" height="600px" style="border: none;"></iframe>
 
