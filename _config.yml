@@ -7,13 +7,13 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "San Diego, CA, USA"
+locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Vivekanand's Homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Vivekanand Sahu"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://vivekanand-sahu.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -22,9 +22,9 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
+  avatar           : "https://github.com/Vivekanand-Sahu/vivekanand-sahu.github.io/blob/master/images/WhatsApp%20Image%202025-03-16%20at%206.50.29%20PM.jpeg"
+  name             : "Vivekanand Sahu"
+  pronouns         : "He/Him"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
   employer         : "Red Brick University"
