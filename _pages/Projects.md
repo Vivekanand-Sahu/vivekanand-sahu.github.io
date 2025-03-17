@@ -9,7 +9,6 @@ redirect_from:
 
 
 
-## ![Agentic AI - Cards Game](path/to/image.jpg)  
 ### **Agentic AI - Cards Game**  
 **Technologies:** AI Agents, LLM Training, OpenAI APIs, Cost Optimization  
 🔗 [GitHub: https://github.com/Vivekanand-Sahu/AGENTIC_AI_21_CARD_GAME.git](#)  
@@ -20,7 +19,7 @@ redirect_from:
 
 
 ---
-## ![Preliminary Disease Diagnosis](path/to/image.jpg)  
+
 ### **Preliminary Disease Diagnosis**  
 **Technologies:** XGBoost, Pandas, NumPy, Matplotlib  
 🔗 [GitHub: https://github.com/Vivekanand-Sahu/Preliminary_Disease_Diagnosis_XGBoost.git](#)  
@@ -31,7 +30,7 @@ redirect_from:
 
 ---
 
-## ![Medical Imaging For Glaucoma](path/to/image.jpg)  
+
 ### **Medical Imaging For Glaucoma**  
 **Technologies:** Computer Vision, Image Classification, Segmentation, CNN  
 
@@ -42,7 +41,6 @@ redirect_from:
 ---
 
 
-## ![Typing Assistant Chatbot](path/to/image.jpg)  
 ### **Typing Assistant Chatbot**  
 **Technologies:** Auto-regression, Tokenization, Model Profiling, NLP  
 
@@ -52,7 +50,6 @@ redirect_from:
 
 
 
-## ![Self-Driving Vehicle](path/to/image.jpg)  
 ### **Self-Driving Vehicle**  
 **Technologies:** TensorFlow, Hyperparameter Tuning, Computer Vision, OpenCV  
 
